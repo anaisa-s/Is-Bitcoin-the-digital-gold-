@@ -43,7 +43,7 @@
 
 
 ## 📂 Project Structure
-
+```text
 ├── data/
 │   ├──GDP.csv
 │   └──US_ECO.csv
@@ -58,7 +58,7 @@
 ├── visualization/
 │   └──tableau
 └── README.md
-
+```
 ---
 
 ## 🔗 Sources & References
@@ -73,7 +73,7 @@
 
 **Anaísa Sena**  
 *Data Analytics Final Project*  
-GitHub: [AnaisaSena](https://github.com/bluenightx)
+GitHub: [AnaisaSena](https://github.com/anaisa-s)
 
 ---
 
